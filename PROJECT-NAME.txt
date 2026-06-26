@@ -1,0 +1,3 @@
+Project Name: Openweather
+Author: Mraprguild
+Command: mrapweather

@@ -1,0 +1,11 @@
+# API keys and local config
+.env
+config.env
+*.key
+
+# Python
+__pycache__/
+*.pyc
+
+# Termux/local
+.cache/
