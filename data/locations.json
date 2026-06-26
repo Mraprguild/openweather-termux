@@ -1,0 +1,173 @@
+{
+  "countries": [
+    {
+      "name": "India",
+      "code": "IN",
+      "states": [
+        {
+          "name": "Tamil Nadu",
+          "cities": [
+            {
+              "name": "Chennai",
+              "villages": [
+                "Adyar",
+                "Anna Nagar",
+                "Tambaram",
+                "Velachery",
+                "Porur"
+              ]
+            },
+            {
+              "name": "Madurai",
+              "villages": [
+                "Melur",
+                "Thiruparankundram",
+                "Usilampatti",
+                "Vadipatti"
+              ]
+            },
+            {
+              "name": "Coimbatore",
+              "villages": [
+                "Pollachi",
+                "Mettupalayam",
+                "Sulur",
+                "Perur"
+              ]
+            },
+            {
+              "name": "Salem",
+              "villages": [
+                "Omalur",
+                "Attur",
+                "Mettur",
+                "Edappadi"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kerala",
+          "cities": [
+            {
+              "name": "Kochi",
+              "villages": [
+                "Aluva",
+                "Edappally",
+                "Kakkanad",
+                "Thrippunithura"
+              ]
+            },
+            {
+              "name": "Thiruvananthapuram",
+              "villages": [
+                "Kovalam",
+                "Neyyattinkara",
+                "Kazhakkoottam",
+                "Varkala"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Karnataka",
+          "cities": [
+            {
+              "name": "Bengaluru",
+              "villages": [
+                "Electronic City",
+                "Whitefield",
+                "Yelahanka",
+                "Kengeri"
+              ]
+            },
+            {
+              "name": "Mysuru",
+              "villages": [
+                "Nanjangud",
+                "Hunsur",
+                "Srirangapatna",
+                "T. Narasipura"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "code": "US",
+      "states": [
+        {
+          "name": "California",
+          "cities": [
+            {
+              "name": "Los Angeles",
+              "villages": [
+                "Hollywood",
+                "Venice",
+                "Santa Monica"
+              ]
+            },
+            {
+              "name": "San Francisco",
+              "villages": [
+                "Mission District",
+                "Sunset District",
+                "Richmond District"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "New York",
+          "cities": [
+            {
+              "name": "New York",
+              "villages": [
+                "Brooklyn",
+                "Queens",
+                "Manhattan"
+              ]
+            },
+            {
+              "name": "Buffalo",
+              "villages": [
+                "Amherst",
+                "Cheektowaga",
+                "Tonawanda"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "United Kingdom",
+      "code": "GB",
+      "states": [
+        {
+          "name": "England",
+          "cities": [
+            {
+              "name": "London",
+              "villages": [
+                "Camden",
+                "Greenwich",
+                "Croydon"
+              ]
+            },
+            {
+              "name": "Manchester",
+              "villages": [
+                "Salford",
+                "Bolton",
+                "Stockport"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
