@@ -1,0 +1,21 @@
+#!/data/data/com.termux/files/usr/bin/bash
+set -e
+
+if [ -z "$1" ]; then
+  echo "Usage:"
+  echo "  mrapweather-key YOUR_OPENWEATHER_API_KEY"
+  exit 1
+fi
+
+CONFIG_DIR="$HOME/.config/mrapweather"
+CONFIG_FILE="$CONFIG_DIR/config.env"
+
+mkdir -p "$CONFIG_DIR"
+cat > "$CONFIG_FILE" <<EOF
+OPENWEATHER_API_KEY="$1"
+EOF
+
+chmod 600 "$CONFIG_FILE"
+
+echo "✅ OpenWeather API key saved safely."
+echo "Config: $CONFIG_FILE"
