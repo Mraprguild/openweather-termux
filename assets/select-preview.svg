@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="620" viewBox="0 0 1040 620">
+  <rect width="1040" height="620" rx="30" fill="#020617"/>
+  <rect x="35" y="35" width="970" height="550" rx="24" fill="#0f172a" stroke="#334155" stroke-width="3"/>
+  <rect x="35" y="35" width="970" height="62" rx="24" fill="#111827"/>
+  <circle cx="75" cy="66" r="10" fill="#ef4444"/>
+  <circle cx="110" cy="66" r="10" fill="#f59e0b"/>
+  <circle cx="145" cy="66" r="10" fill="#22c55e"/>
+  <text x="520" y="74" text-anchor="middle" font-family="monospace" font-size="22" fill="#e5e7eb">mrapweather select</text>
+
+  <text x="70" y="140" font-family="monospace" font-size="22" fill="#22c55e">$ mrapweather select</text>
+  <text x="70" y="185" font-family="monospace" font-size="22" fill="#facc15">🌦 OPENWEATHER - LOCATION SELECT</text>
+  <text x="70" y="225" font-family="monospace" font-size="21" fill="#e5e7eb">Select Country → State → City → Village</text>
+
+  <text x="70" y="275" font-family="monospace" font-size="21" fill="#93c5fd">📌 Select Country</text>
+  <text x="70" y="312" font-family="monospace" font-size="20" fill="#e5e7eb">1. India  2. United States  3. United Kingdom  0. Manual type</text>
+  <text x="70" y="350" font-family="monospace" font-size="20" fill="#22c55e">Enter Country number: 1</text>
+
+  <text x="70" y="398" font-family="monospace" font-size="21" fill="#93c5fd">📌 Select State</text>
+  <text x="70" y="435" font-family="monospace" font-size="20" fill="#e5e7eb">1. Tamil Nadu  2. Kerala  3. Karnataka  0. Manual type</text>
+  <text x="70" y="473" font-family="monospace" font-size="20" fill="#22c55e">Enter State number: 1</text>
+
+  <text x="70" y="521" font-family="monospace" font-size="20" fill="#f97316">Selected: India → Tamil Nadu → Chennai → Tambaram</text>
+  <rect x="828" y="124" width="14" height="28" fill="#22c55e">
+    <animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
